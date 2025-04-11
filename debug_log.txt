@@ -1,0 +1,28 @@
+Array
+(
+    [user_id] => 123
+    [username] => john_doe
+    [role] => Officer
+    [location] => Campus Entrance
+)
+Array
+(
+    [user_id] => 123
+    [username] => john_doe
+    [role] => Officer
+    [location] => Campus Entrance
+)
+Array
+(
+    [user_id] => 123
+    [username] => john_doe
+    [role] => Officer
+    [location] => Campus Entrance
+)
+Array
+(
+    [user_id] => 123
+    [username] => john_doe
+    [role] => Officer
+    [location] => Campus Entrance
+)
