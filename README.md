@@ -14,7 +14,9 @@ SecureGuard is a web-based QR Code Scanning System designed to streamline locati
 - **User Management**: Add, delete, promote, or demote users.
 - **QR Data Management**: View and manage QR code scan data.
 - **Reports**: Generate and download CSV reports of logged-in users and scan data.
-###Contributing
+
+  
+### Contributing
 Contributions are welcome! Please follow these steps:
 
 Fork the repository.
